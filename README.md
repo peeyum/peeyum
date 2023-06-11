@@ -5,5 +5,8 @@
   - you can find/contact me @ https://piam.lol
 
 **<ins>a little about me </ins>**
+- i enjoy wasting money on domains
+- i can skid basically anything
+- i play roblox alow
 
 <a href="https://discord.com/users/610140494697332766" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
