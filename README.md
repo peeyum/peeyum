@@ -8,6 +8,5 @@
 - i enjoy wasting money on domains
 - i can skid basically anything
 - i play roblox alot; you can join me in games @ https://www.roblox.com/users/339443329/profile
-- if i have been offline for more than 24h, you can check my discord status @ https://piam.lol/status
 
 <a href="https://discord.com/users/610140494697332766" target="_blank"><img src="https://github.com/AstraaDev/AstraaDev/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
