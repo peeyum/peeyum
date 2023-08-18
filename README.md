@@ -2,7 +2,7 @@
 
 
   **hey, i'm piam; i just use this to host random things as well as test random things**
-  - you can find/contact me @ https://piam.lol
+  - you can find/contact me @ https://piam.lol / https://kneeyo.bio
 
 **<ins>a little about me </ins>**
 - i enjoy wasting money on domains
