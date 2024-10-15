@@ -7,7 +7,7 @@
 
 
 ```powershell
-github.com/xjig
+github.com/peeyum
 ```
 ```php
 dc   $  @piaamm
@@ -15,4 +15,3 @@ srv  $  discord.gg/stupid
 ```
 ## 
 &zwnj;
-im down to colab on projects
