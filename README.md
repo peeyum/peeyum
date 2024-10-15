@@ -1,5 +1,18 @@
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=peeyum" alt="Profile Views" /> </p>  
 
 
-  **hey, i'm piam; i just use this to host random things as well as test random things**
-  - you can find/contact me @ https://piam.lol / https://kneeyo.bio
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&duration=8000&pause=&color=F7F7F7&random=true&width=435&lines=piam.lol)](https://git.io/typing-svg)
+
+<img align="left" src="https://files.catbox.moe/bnm05t.png" width="147" alt="Profile Image" /> 
+
+
+
+```powershell
+github.com/xjig
+```
+```php
+dc   $  @piaamm
+srv  $  discord.gg/stupid
+```
+## 
+&zwnj;
+im down to colab on projects
